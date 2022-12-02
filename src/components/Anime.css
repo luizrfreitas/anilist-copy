@@ -1,0 +1,26 @@
+.anime__card {
+    display: flex;
+    flex-direction: column;
+}
+
+.anime__banner {
+    width: 150px;
+    height: 210px;
+}
+
+.anime__info-box {
+    background-color: black;
+    opacity: 0.6;
+    width: 150px;
+    height: 70px;
+    margin-top: -70px;
+}
+
+.anime__name {
+    color: white;
+    text-decoration: none;
+}
+
+.anime__eps {
+    color: white;
+}
